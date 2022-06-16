@@ -25,10 +25,10 @@
     💻 About Me :
     - 👋 Hi, I’m Divasraj Vimal
     - 😊I am Student at Indian Institute of Information Technology Vadodara (IIITV), 
-        I am a Full stack Developer learning and applying my knowledge of MERN stack on personal projects.
-    - 👀 I’m interested in Web development
-    - 🌱 I’m currently learning MERN stack
-    - 💞️ I’m looking to collaborate on Web Development Projects
+        I am a Game Developer/Game Programmer learning and applying my knowledge of Game development on personal projects.
+    - 👀 I’m interested in Game development
+    - 🌱 I’m currently doing Internship as a Game programmer
+    - 💞️ I’m looking to collaborate on Game Development Projects
     - 📫 How to reach me vimaldivas12@gmail.com
     
     ---
