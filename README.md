@@ -22,8 +22,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     ---
 
-    💻 About Me :
-    - 👋 Hi, I’m Divasraj Vimal
+    #💻 About Me :
+    -## 👋 Hi, I’m Divasraj Vimal
     - 😊I am Student at Indian Institute of Information Technology Vadodara (IIITV), 
         I am a Game Developer/Game Programmer learning and applying my knowledge of Game development on personal projects.
     - 👀 I’m interested in Game development
