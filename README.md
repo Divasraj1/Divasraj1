@@ -14,29 +14,24 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=divasraj1&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    ---
-
-    <h1>💻 About Me :</h1>
-    -## 👋 Hi, I’m Divasraj Vimal
-    - 😊I am Student at Indian Institute of Information Technology Vadodara (IIITV), 
-        I am a Full Stack Developer
-    - 👀 I’m interested in MERN Stack Development
-    - 🌱 I’m currently doing Internship as a Backend Developer
-    - 💞️ I’m looking to collaborate on MERN Stack Projects
-    - 📫 How to reach me vimaldivas12@gmail.com
+     <h1>💻 About Me :</h1>
+    <ul align="left">
+        <li>👋 Hi, I’m Divasraj Vimal</li>
+        <li>😊I am Student at Indian Institute of Information Technology Vadodara (IIITV), 
+            I am a Full Stack Developer 
+        </li>
+        <li>👀 I’m interested in MERN Stack Development</li>
+        <li>🌱 I’m currently doing Internship as a Backend Developer</li>
+        <li>💞️ I’m looking to collaborate on MERN Stack Projects</li>
+        <li>📫 How to reach me vimaldivas12@gmail.com</li>
+    </ul>
     
-    ---
-    
-    
-
-
-
 <!---
 Divasraj1/Divasraj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
